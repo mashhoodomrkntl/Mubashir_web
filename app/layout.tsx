@@ -12,20 +12,49 @@ export const metadata: Metadata = {
   title: 'Mubashir | Finance Professional, Internal Auditor & Strategic Consultant',
   description: 'Mubashir is a Certified Management Accountant (CMA) and Finance Professional from Kerala, India. Expert in Internal Auditing, Financial Analysis, SAP FICO, IFRS, and Strategic Business Consulting.',
   keywords: [
+    // Identity & Core Role
     'Mubashir',
     'Finance Professional',
     'Internal Auditor',
     'CMA',
     'Certified Management Accountant',
+    
+    // Location-Based - India/Kerala
+    'Best financial consultant in India',
+    'Kerala financial expert',
+    'Investment advisor in Kerala',
     'Finance Consultant Kerala',
-    'Bookkeeping',
-    'MIS Reports',
-    'GST Filing',
-    'Financial Analysis',
-    'SAP FICO',
-    'IFRS',
-    'Business Strategy',
-    'Kerala Finance Expert'
+    'Tax consultant in Kerala',
+    'Virtual CFO services Kerala',
+    'Freelance accountant Kerala',
+
+    // Location-Based - Middle East (UAE, Qatar, Dubai, Doha)
+    'Financial advisor in Dubai',
+    'Financial consultant in Qatar',
+    'Doha financial advisor',
+    'Business financial consultant UAE',
+    'Tax consultant in Dubai',
+    'VAT consultant UAE',
+    'Internal audit services Qatar',
+    'Bookkeeping services Dubai',
+    'CFO services Dubai',
+
+    // Services & Expertise - User Search Perspective
+    'Bookkeeping services for small business',
+    'MIS reporting services',
+    'GST filing expert India',
+    'Financial analysis for startups',
+    'Strategic business consulting',
+    'Cost reduction strategies for business',
+    'Business plan writer finance',
+    'Cash flow management consultant',
+    'Forensic auditing services',
+    
+    // Technical Skills
+    'SAP FICO consultant',
+    'IFRS expert',
+    'Power BI financial reporting',
+    'Excel financial modeling expert'
   ],
   authors: [{ name: 'Mubashir' }],
   creator: 'Mubashir',
